@@ -1,0 +1,31 @@
+{
+    "project_info": {
+        "project_number": "596322581094",
+        "project_id": "cinapse-internetBankingBCS",
+        "storage_bucket": "cinapse-internetBankingBCS.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:596322581094:android:2b6d7f67675ac147b8cba7",
+            "android_client_info": {
+                "package_name": "com.cinapse.internetBankingBCS"
+            }
+        },
+        "oauth_client": [{
+            "client_id": "596322581094-8cchlqddibv4lpebqk9ceab0cq5pblm8.apps.googleusercontent.com",
+            "client_type": 3
+        }],
+        "api_key": [{
+            "current_key": "AIzaSyB1w9fKonN2vzGqZ30l_UM7kcl2tgYqrE8"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "596322581094-8cchlqddibv4lpebqk9ceab0cq5pblm8.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
